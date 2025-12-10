@@ -1,224 +1,159 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Taha+Salmani;%24+skills;Hacker+%7C+Developer;%24+./exploit.sh;Always+Learning" alt="Hacker Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taha%20Salmani&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=modark-mk&label=Profile%20views&color=00FF41&style=flat-square&logo=github&logoColor=00FF41" alt="modark-mk" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%90;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=modark-mk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/modark-mk?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Development-orange?style=for-the-badge" alt="Focus" />
+</p>
+
+<br/>
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```javascript
+const taha = {
+    location: "🇮🇷 Iran",
+    role: "Full-Stack Developer & Security Researcher",
+    currentFocus: "Building Secure Applications",
+    learning: ["React", "C/C++", "C#", "Docker", "Pentesting"],
+    hobbies: ["Bug Bounty", "CTF Challenges", "Open Source"],
+    funFact: "I debug code faster than I fix my life! 😄"
+};
+```
+
+<br clear="right"/>
+
+### 🔥 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Working_On-MoD%20Framework-FF6B9D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱_Learning-React%20%7C%20Docker-4EA94B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/👯_Collaborate-Hacking%20Projects-FFA116?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💬_Ask%20Me-OWASP%20%7C%20Security-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📫_Email-hfg1533@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🔤 Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Backend & Database</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=modark-mk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=F97316&text_color=FFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=modark-mk&theme=radical&hide_border=true&background=0D1117&stroke=FFF&ring=9333EA&fire=F97316&currStreakLabel=FFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=modark-mk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=FFF&layout=compact" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=modark-mk&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=FFF" alt="Contribution Stats" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=modark-mk&theme=gitdimmed&row=2&column=3&no-frame=true" alt="modark-mk" />
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=modark-mk&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <pre>
-<span style="color: #00FF41">╔══════════════════════════════════════════════════════════╗
-║          🔥 HACKER MODE ACTIVATED 🔥        ║
-╚══════════════════════════════════════════════════════════╝</span>
-  </pre>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=modark-mk&theme=react-dark&hide_border=true&bg_color=0D1117&color=9333EA&line=F97316&point=FFF" alt="Contribution Graph" width="98%"/>
 </div>
 
-<!-- Location Badge -->
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Iran-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41&logo=linux&logoColor=00FF41" alt="Location" />
-  <img src="https://img.shields.io/badge/💻_Role-Hacker%2FDeveloper-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41" alt="Developer" />
-  <img src="https://img.shields.io/badge/🎯_Specialty-Security%20%26%20Exploit-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41" alt="Passion" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-salmani-31883536b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoDarK-MK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hfg1533@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/MoDarK-MK)
+
 </div>
 
-<!-- About Section -->
+---
+
+## 💡 Random Dev Quote
+
 <div align="center">
-  <h2 style="color: #00FF41">
-    <code>$ cat about_me.txt</code>
-  </h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
-<table align="center" style="border-collapse: collapse; border: 2px solid #00FF41;">
-  <tr style="background-color: #0d1117;">
-    <td width="50%" style="border: 1px solid #00FF41; padding: 15px;">
-      <img src="https://img.shields.io/badge/🔭_Active_Project-MoD%20Exploit%20Framework-00FF41?style=flat-square&labelColor=0d1117" alt="Current Project" />
-      <br><br>
-      <img src="https://img.shields.io/badge/📚_Skills-React%20•%20C%20•%20C%2B%2B%20•%20C%23%20•%20Docker%20•%20Pentesting-00FF41?style=flat-square&labelColor=0d1117" alt="Learning" />
-      <br><br>
-      <img src="https://img.shields.io/badge/🤝_Collaborate-Bug%20Bounty%20%26%20Security%20Research-00FF41?style=flat-square&labelColor=0d1117" alt="Collaborate" />
-    </td>
-    <td width="50%" style="border: 1px solid #00FF41; padding: 15px;">
-      <img src="https://img.shields.io/badge/🔐_Expertise-OWASP%20•%20Pentesting%20•%20Exploit%20Dev-00FF41?style=flat-square&labelColor=0d1117" alt="Ask Me" />
-      <br><br>
-      <img src="https://img.shields.io/badge/📧_Contact-hfg1533%40gmail.com-00FF41?style=flat-square&labelColor=0d1117" alt="Email" />
-      <br><br>
-      <img src="https://img.shields.io/badge/⚡_Philosophy-No%20Rules%20Just%20Code-00FF41?style=flat-square&labelColor=0d1117" alt="Fun Fact" />
-    </td>
-  </tr>
-</table>
+---
 
-<hr style="border: 2px solid #16c784; margin: 30px 0">
-
-<!-- Contact Section -->
 <div align="center">
-  <h2 style="color: #00FF41;">
-    <code>$ find . -name 'contact'</code>
-  </h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<div align="center">
   
-  <a href="https://www.linkedin.com/in/taha-salmani-31883536b/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=00FF41&color=00FF41" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MoDarK-MK" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00FF41&color=00FF41" alt="GitHub" />
-  </a>
-  <a href="mailto:hfg1533@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=00FF41&color=00FF41" alt="Gmail" />
-  </a>
-</div>
+### 🌟 Show some ❤️ by starring some repositories!
 
-<div align="center" style="margin: 30px 0;">
-  <code style="color: #00FF41;">══════════════════════════════════════════════════════════════════════════════════</code>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%AA" alt="Typing SVG" />
 
-<!-- Tech Stack Section -->
-<div align="center">
-  <h2 style="color: #00FF41;">
-    <code>$ /bin/arsenal</code>
-  </h2>
-</div>
-<div align="center" style="margin: 20px 0;">
-  <code style="color: #00FF41;">Loading arsenal...</code>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" alt="Android" />
-        <br><strong>Android</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-        <br><strong>C</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-        <br><strong>C++</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-        <br><strong>C#</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-        <br><strong>Python</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-        <br><strong>MySQL</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" width="50" height="50" alt="MSSQL" />
-        <br><strong>MSSQL</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-        <br><strong>Docker</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-        <br><strong>Git</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-        <br><strong>Linux</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-        <br><strong>PHP</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="50" height="50" alt="Qt" />
-        <br><strong>Qt</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
-        <br><strong>Figma</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
-        <br><strong>Bash</strong>
-      </td>
-      <td align="center" width="100px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium" />
-        <br><strong>Selenium</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <code style="color: #00FF41;">══════════════════════════════════════════════════════════════════════════════════</code>
-</div>
-
-<!-- Stats Section -->
-<div align="center">
-  <h2 style="color: #00FF41;">
-    <code>$ ./get_stats.sh</code>
-  </h2>
-</div>
-<div align="center" style="margin: 20px 0;">
-  <code style="color: #00FF41;">Fetching data from GitHub servers...</code>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=modark-mk&show_icons=true&locale=en&layout=compact&theme=nightowl&title_color=00FF41&text_color=00FF41&bg_color=0d1117&border_color=00FF41" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=modark-mk&show_icons=true&locale=en&theme=nightowl&title_color=00FF41&text_color=00FF41&bg_color=0d1117&border_color=00FF41" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=modark-mk&theme=nightowl&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" />
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <code style="color: #00FF41;">══════════════════════════════════════════════════════════════════════════════════</code>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+echo+%27Hack+the+Planet%27;%24+rm+-rf+./doubts;%24+chmod+%2B0x+./possibilities;Thanks+for+stopping+by!" alt="Hacker Footer" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <code style="color: #00FF41;">
-    ┌─────────────────────────────────────────────────────────────────────┐<br/>
-    │ Made with <span style="color:#FF0000">🔴</span> by <a href="https://github.com/MoDarK-MK" style="color: #00FF41;">Taha Salmani</a> │<br/>
-    │ Always Learning, Never Stopping 🎯          │<br/>
-    └─────────────────────────────────────────────────────────────────────┘
-  </code>
 </div>
