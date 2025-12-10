@@ -27,7 +27,7 @@
 <!-- About Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815fy/giphy.gif" width="28"> About Me
+    👨‍💻 About Me
   </h2>
 </div>
 
@@ -55,7 +55,7 @@
 <!-- Contact Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/jSKBUGkQn64yI2p7Yf/giphy.gif" width="28"> Connect With Me
+    🔗 Connect With Me
   </h2>
   
   <a href="https://www.linkedin.com/in/taha-salmani-31883536b/" target="blank">
@@ -74,7 +74,7 @@
 <!-- Tech Stack Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/TqfwAu4wNWHzt3x0Os/giphy.gif" width="28"> Tech Stack & Tools
+    🛠️ Tech Stack & Tools
   </h2>
 </div>
 
@@ -130,7 +130,7 @@
         <br><strong>MySQL</strong>
       </td>
       <td align="center" width="100px">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="MSSQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" width="50" height="50" alt="MSSQL" />
         <br><strong>MSSQL</strong>
       </td>
       <td align="center" width="100px">
@@ -160,7 +160,7 @@
         <br><strong>Figma</strong>
       </td>
       <td align="center" width="100px">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
         <br><strong>Bash</strong>
       </td>
       <td align="center" width="100px">
@@ -176,7 +176,7 @@
 <!-- Stats Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/iY3p6zqp0ZZA4/giphy.gif" width="28"> GitHub Statistics
+    📊 GitHub Statistics
   </h2>
 </div>
 
