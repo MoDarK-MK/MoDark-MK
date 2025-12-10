@@ -1,34 +1,205 @@
-<h1 align="center">Hi 👋, I'm Taha Salmani</h1>
-<h3 align="center">Developer from Iran</h3>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Taha+Salmani;Full+Stack+Developer;Security+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modark-mk&label=Profile%20views&color=0e75b6&style=flat" alt="modark-mk" /> </p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=modark-mk&label=Profile%20views&color=00D9FF&style=flat-square&logo=github" alt="modark-mk" />
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modark-mk" alt="modark-mk" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=modark-mk&theme=nord&row=2&column=3" alt="modark-mk" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [MoD](https://github.com/MoDarK-MK/MoD)
+<hr style="border: 2px solid #00D9FF; margin: 20px 0">
 
-- 🌱 I’m currently learning **react,C,C++,C#,docker**
+<!-- Location Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Iran-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Location" />
+  <img src="https://img.shields.io/badge/💻_Developer-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Developer" />
+  <img src="https://img.shields.io/badge/🎯_Passion-Security%20%26%20DevOps-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Passion" />
+</div>
 
-- 👯 I’m looking to collaborate on **Hackingprojects**
+<!-- About Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815fy/giphy.gif" width="28"> About Me
+  </h2>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoDarK-MK](https://github.com/MoDarK-MK)
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/🔭_Currently_Working_On-MoD_Project-00D9FF?style=flat-square&labelColor=1a1a2e&border=2" alt="Current Project" />
+      <br><br>
+      <img src="https://img.shields.io/badge/🌱_Learning-React%20•%20C%20•%20C%2B%2B%20•%20C%23%20•%20Docker-16c784?style=flat-square&labelColor=1a1a2e" alt="Learning" />
+      <br><br>
+      <img src="https://img.shields.io/badge/👯_Collaborate_On-Hacking%20Projects-FF6B6B?style=flat-square&labelColor=1a1a2e" alt="Collaborate" />
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/💬_Ask_Me_About-OWASP%20%26%20Security-FFD700?style=flat-square&labelColor=1a1a2e" alt="Ask Me" />
+      <br><br>
+      <img src="https://img.shields.io/badge/📫_Reach_Me_At-hfg1533%40gmail.com-FF1493?style=flat-square&labelColor=1a1a2e" alt="Email" />
+      <br><br>
+      <img src="https://img.shields.io/badge/⚡_Fun_Fact-I'm%20Not%20Fun%20-00D9FF?style=flat-square&labelColor=1a1a2e" alt="Fun Fact" />
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **OWASP**
+<hr style="border: 2px solid #16c784; margin: 30px 0">
 
-- 📫 How to reach me **hfg1533@gmail.com**
+<!-- Contact Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/jSKBUGkQn64yI2p7Yf/giphy.gif" width="28"> Connect With Me
+  </h2>
+  
+  <a href="https://www.linkedin.com/in/taha-salmani-31883536b/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MoDarK-MK" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-16c784?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
+  </a>
+  <a href="mailto:hfg1533@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Gmail" />
+  </a>
+</div>
 
-- ⚡ Fun fact **Im not fun.**
+<hr style="border: 2px solid #FFD700; margin: 30px 0">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-salmani-31883536b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-salmani-31883536b/" height="30" width="40" /></a>
-</p>
+<!-- Tech Stack Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/TqfwAu4wNWHzt3x0Os/giphy.gif" width="28"> Tech Stack & Tools
+  </h2>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" alt="Android" />
+        <br><strong>Android</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
+        <br><strong>C</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+        <br><strong>C++</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+        <br><strong>C#</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+        <br><strong>Python</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+        <br><strong>CSS3</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+        <br><strong>Bootstrap</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="MSSQL" />
+        <br><strong>MSSQL</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+        <br><strong>Linux</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+        <br><strong>PHP</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="50" height="50" alt="Qt" />
+        <br><strong>Qt</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
+        <br><strong>Figma</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash" />
+        <br><strong>Bash</strong>
+      </td>
+      <td align="center" width="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium" />
+        <br><strong>Selenium</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modark-mk&show_icons=true&locale=en&layout=compact" alt="modark-mk" /></p>
+<hr style="border: 2px solid #FF1493; margin: 30px 0">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modark-mk&show_icons=true&locale=en" alt="modark-mk" /></p>
+<!-- Stats Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY3p6zqp0ZZA4/giphy.gif" width="28"> GitHub Statistics
+  </h2>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modark-mk&" alt="modark-mk" /></p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=modark-mk&show_icons=true&locale=en&layout=compact&theme=nord&title_color=00D9FF&text_color=00D9FF&bg_color=1a1a2e&border_color=00D9FF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=modark-mk&show_icons=true&locale=en&theme=nord&title_color=00D9FF&text_color=00D9FF&bg_color=1a1a2e&border_color=00D9FF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=modark-mk&theme=nord&background=1a1a2e&ring=00D9FF&fire=FF1493&currStreakLabel=00D9FF" alt="Streak Stats" />
+</div>
+
+<hr style="border: 2px solid #16c784; margin: 30px 0">
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing+Together!;Keep+Coding,+Keep+Learning;Security+First,+Always!" alt="Footer" />
+</div>
+
+<div align="center">
+  <sup>
+    <strong>
+      Made with <span style="color:#FF1493">❤️</span> by <a href="https://github.com/MoDarK-MK">Taha Salmani</a>
+    </strong>
+  </sup>
+</div>
